@@ -29,6 +29,7 @@ Partial Class Form1
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 55.0!)
+        Me.Label1.ForeColor = System.Drawing.Color.OrangeRed
         Me.Label1.Location = New System.Drawing.Point(133, 167)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(473, 85)
