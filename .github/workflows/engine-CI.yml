@@ -38,11 +38,11 @@ jobs:
       - name: Config MSbuild
         uses: microsoft/setup-msbuild@v1
         
-      - name: Config Nuget
-        uses: NuGet/setup-nuget@v1.0.2
+      #- name: Config Nuget
+      #  uses: NuGet/setup-nuget@v1.0.2
       
-      - name: Restore Nuget
-        run: nuget restore WinForm.Full.sln
+      #- name: Restore Nuget
+      #  run: nuget restore WinForm.Full.sln
       
       - name: Build da solucao
         run: msbuild WinForm.Full.sln /p:Configuration=Release
