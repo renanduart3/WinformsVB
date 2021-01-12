@@ -1,5 +1,6 @@
-# WinformsVB
+## WinformsVB .NET 4.5.2 Windows - self hosted
 ![Processo-CI](https://github.com/renanduart3/WinformsVB/workflows/Processo-CI/badge.svg)
+
 Projeto em windows forms utilizando .net full framework
 
 As caracteristicas desse projetos sao baseadas no dotnet 4.5.2 usando windows forms em VB.
