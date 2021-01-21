@@ -31,11 +31,11 @@ Partial Class Form1
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 55.0!)
         Me.Label1.ForeColor = System.Drawing.Color.Chocolate
+
         Me.Label1.Location = New System.Drawing.Point(133, 167)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(312, 85)
         Me.Label1.TabIndex = 0
-        Me.Label1.Text = "GA - 4.5"
         '
         'Label2
         '
