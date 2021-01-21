@@ -30,12 +30,12 @@ Partial Class Form1
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 55.0!)
-        Me.Label1.ForeColor = System.Drawing.Color.Firebrick
+        Me.Label1.ForeColor = System.Drawing.Color.Sienna
         Me.Label1.Location = New System.Drawing.Point(133, 167)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(714, 85)
         Me.Label1.TabIndex = 0
-        Me.Label1.Text = "GA - AutoDeploy 3.5"
+        Me.Label1.Text = "GA - AutoDeploy 4.5"
         '
         'Label2
         '
@@ -54,7 +54,7 @@ Partial Class Form1
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "S"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
